@@ -1,0 +1,49 @@
+{
+    "name": "kjs-extensions-pack",
+    "displayName": "kjs Extensions Pack",
+    "description": "A set of useful extensions for JS development.",
+    "version": "0.0.1",
+    "publisher": "Meg4R0M",
+    "bugs": {
+        "url": "https://github.com/psykoterro/kjs-extensionpack/issues",
+        "email": "psykoterro@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/psykoterro/kjs-extensionpack.git"
+    },
+    "icon": "images/kjs.png",
+    "galleryBanner": {
+        "color": "#e94e1b",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.45.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "xabikos.JavaScriptSnippets",
+        "mgmcdermott.vscode-language-babel",
+        "ms-vscode.vscode-typescript-next",
+        "ms-vscode.typescript-javascript-grammar",
+        "chenxsan.vscode-standardjs",
+        "ms-vscode.js-debug-nightly",
+        "sburg.vscode-javascript-booster",
+        "capaj.vscode-standardjs-snippets",
+        "numso.prettier-standard-vscode",
+        "whtouche.vscode-js-console-utils",
+        "oshri6688.javascript-test-runner",
+        "dbaeumer.vscode-eslint",
+        "NicholasHsiang.vscode-javascript-comment",
+        "msjsdiag.debugger-for-chrome",
+        "VisualStudioExptTeam.vscodeintellicode",
+        "formulahendry.code-runner",
+        "christian-kohler.npm-intellisense",
+        "kisstkondoros.vscode-codemetrics",
+        "ms-vscode.node-debug2",
+        "wix.vscode-import-cost",
+        "AlexisRieucau.jsgettersetter"
+    ]
+}
